@@ -6,7 +6,7 @@ A clean backend API for managing users and attendance records using FastAPI, Pos
 
 
 
-This repository's \*\*main branch\*\* is a stable, recruiter-ready version.
+This is the \*\*stable main branch\*\* of the project.
 
 
 
@@ -116,7 +116,9 @@ pip install -r requirements.txt
 
 
 
-Create PostgreSQL database:
+Create PostgreSQL database named:
+
+
 
 saas\_app\_db
 
@@ -154,55 +156,9 @@ http://127.0.0.1:8000/docs
 
 
 
-\## 📸 Proof of Working Backend
+\## 📸 Screenshots
 
 
 
-\### Swagger Overview
-
-!\[Swagger Overview](./screenshots/swagger\_overview.png)
-
-
-
-\### Create User Success
-
-!\[Create User Success](./screenshots/swagger\_success\_user.png)
-
-
-
-\### Duplicate Email Validation
-
-!\[Duplicate Validation](./screenshots/swagger\_duplicate\_validation.png)
-
-
-
-\### Mark Attendance
-
-!\[Mark Attendance](./screenshots/swagger\_attendance\_mark.png)
-
-
-
-\### Attendance List
-
-!\[Attendance List](./screenshots/swagger\_attendance\_list.png)
-
-
-
-\### Database Tables (pgAdmin)
-
-!\[User Table](./screenshots/db\_user.png)
-
-
-
-!\[Attendance Table](./screenshots/db\_attendance.png)
-
----
-
-
-
-\## 🔮 Roadmap
-
-
-
-Multi-tenant support (Tenant isolation, RBAC, advanced SaaS features) is being developed in a separate feature branch.
+All working proof screenshots are available inside the `screenshots/` folder.
 
