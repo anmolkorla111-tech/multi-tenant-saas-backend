@@ -160,43 +160,41 @@ http://127.0.0.1:8000/docs
 
 \### Swagger Overview
 
-!\[Swagger Overview](screenshots/swagger\_overview.png)
+!\[Swagger Overview](./screenshots/swagger\_overview.png)
 
 
 
 \### Create User Success
 
-!\[Create User Success](screenshots/swagger\_success\_user.png)
+!\[Create User Success](./screenshots/swagger\_success\_user.png)
 
 
 
 \### Duplicate Email Validation
 
-!\[Duplicate Validation](screenshots/swagger\_duplicate\_validation.png)
+!\[Duplicate Validation](./screenshots/swagger\_duplicate\_validation.png)
 
 
 
 \### Mark Attendance
 
-!\[Mark Attendance](screenshots/swagger\_attendance\_mark.png)
+!\[Mark Attendance](./screenshots/swagger\_attendance\_mark.png)
 
 
 
 \### Attendance List
 
-!\[Attendance List](screenshots/swagger\_attendance\_list.png)
+!\[Attendance List](./screenshots/swagger\_attendance\_list.png)
 
 
 
 \### Database Tables (pgAdmin)
 
-!\[User Table](screenshots/db\_user.png)
+!\[User Table](./screenshots/db\_user.png)
 
 
 
-!\[Attendance Table](screenshots/db\_attendance.png)
-
-
+!\[Attendance Table](./screenshots/db\_attendance.png)
 
 ---
 
