@@ -154,7 +154,9 @@ http://127.0.0.1:8000/docs
 
 ---
 
+## Screenshot Test
 
+![Swagger Overview](screenshots/swagger_overview.png)
 
 \## 📸 Screenshots
 
